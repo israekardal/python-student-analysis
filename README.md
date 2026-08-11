@@ -44,12 +44,27 @@ This project demonstrates practical skills in:
 - Python programming
 - Git and GitHub
 
+## Results
+
+### Study Hours vs Student Average
+
+![Study Hours vs Student Average](study_hours_vs_average.png.jpg)
+
+### Top 5 Students by Average
+
+![Top 5 Students by Average](top_5_students.png.jpg)
+
 
 ## Project Structure 
   ``` text
 python-student-analysis/
  - README.md
  - analysis.py
+ - requirements.txt
  - students.csv
+ - study_hours_vs_average.png.jpg
+ - top_5_students.png.jpg
+
+
  
   
