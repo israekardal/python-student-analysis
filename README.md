@@ -33,14 +33,7 @@ The project includes:
 - Best average: 18.33/20
 - Correlation between study hours and average: 0.98
 
-## Project Structure 
-  ``` text
-python-student-analysis/
-  - README.md
-  - students.csv
-  - analysis.py
-   
-   
+  
 ## Skills Demonstrated
 
 This project demonstrates practical skills in:
@@ -50,3 +43,13 @@ This project demonstrates practical skills in:
 - Data visualization with Matplotlib
 - Python programming
 - Git and GitHub
+
+
+## Project Structure 
+  ``` text
+python-student-analysis/
+  - README.md
+  - students.csv
+  - analysis.py
+   
+  
