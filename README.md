@@ -33,15 +33,14 @@ The project includes:
 - Best average: 18.33/20
 - Correlation between study hours and average: 0.98
 
-## Project Structure
-
-```text
+## Project Structure 
+    text
 python-student-analysis/
-│
-├── analysis.py
-├── students.csv
-└── README.md
-
+   README.md
+   students.csv
+   analysis.py
+   
+   
 ## Skills Demonstrated
 
 This project demonstrates practical skills in:
