@@ -34,11 +34,11 @@ The project includes:
 - Correlation between study hours and average: 0.98
 
 ## Project Structure 
-    text
+  ` `` text
 python-student-analysis/
-   README.md
-   students.csv
-   analysis.py
+  - README.md
+  - students.csv
+  - analysis.py
    
    
 ## Skills Demonstrated
