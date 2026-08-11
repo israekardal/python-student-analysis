@@ -48,8 +48,7 @@ This project demonstrates practical skills in:
 ## Project Structure 
   ``` text
 python-student-analysis/
-│
-├── analysis.py
-├── students.csv
-└── README.md
+ - analysis.py
+ - students.csv
+ - README.md
   
