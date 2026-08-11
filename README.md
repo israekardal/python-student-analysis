@@ -42,7 +42,6 @@ python-student-analysis/
 ├── students.csv
 └── README.md
 
-
 ## Skills Demonstrated
 
 This project demonstrates practical skills in:
